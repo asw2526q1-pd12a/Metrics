@@ -6,7 +6,7 @@
         "issues","pull-requests","projects"
     ],
     "excluded_members": [
-        "carlesf","professor-asw"
+        "carlesf","professor-asw","dependabot"
     ],
     "excluded_repos": [
         "Metrics"
