@@ -11,9 +11,9 @@
         "AndreuCorden": 6,
         "elmmiret": 11,
         "julenguevara": 2,
-        "Wei-xu293": 5,
+        "Wei-xu293": 6,
         "anonymous": 10,
-        "total": 34
+        "total": 35
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -32,14 +32,14 @@
             "modified": 9
         },
         "Wei-xu293": {
-            "additions": 1077,
-            "deletions": 11,
-            "modified": 1088
+            "additions": 1116,
+            "deletions": 14,
+            "modified": 1130
         },
         "total": {
-            "additions": 4921,
-            "deletions": 368,
-            "modified": 5289
+            "additions": 4960,
+            "deletions": 371,
+            "modified": 5331
         }
     },
     "commit_streak": {
