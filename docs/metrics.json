@@ -11,9 +11,9 @@
         "AndreuCorden": 6,
         "elmmiret": 11,
         "julenguevara": 2,
-        "Wei-xu293": 2,
+        "Wei-xu293": 3,
         "anonymous": 10,
-        "total": 31
+        "total": 32
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -32,28 +32,28 @@
             "modified": 9
         },
         "Wei-xu293": {
-            "additions": 4,
-            "deletions": 1,
-            "modified": 5
+            "additions": 1051,
+            "deletions": 7,
+            "modified": 1058
         },
         "total": {
-            "additions": 3848,
-            "deletions": 358,
-            "modified": 4206
+            "additions": 4895,
+            "deletions": 364,
+            "modified": 5259
         }
     },
     "commit_streak": {
         "AndreuCorden": 0,
         "elmmiret": 0,
         "julenguevara": 0,
-        "Wei-xu293": 0
+        "Wei-xu293": 1
     },
     "commit_merges": 4,
     "longest_commit_streak_per_user": {
         "AndreuCorden": 0,
         "elmmiret": 0,
         "julenguevara": 0,
-        "Wei-xu293": 0
+        "Wei-xu293": 1
     },
     "issues": {
         "assigned": {
@@ -126,9 +126,9 @@
                 "total_features": 5,
                 "total_tasks": 0,
                 "total_bugs": 0,
-                "total_features_backlog": 3,
+                "total_features_backlog": 2,
                 "total_features_ready": 0,
-                "total_features_in_progress": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 2,
                 "total_features_done": 0,
                 "total": 31
@@ -181,9 +181,9 @@
                 "total_features": 5,
                 "total_tasks": 0,
                 "total_bugs": 0,
-                "total_features_backlog": 3,
+                "total_features_backlog": 2,
                 "total_features_ready": 0,
-                "total_features_in_progress": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 2,
                 "total_features_done": 0,
                 "total": 31
