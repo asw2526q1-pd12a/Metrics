@@ -67,11 +67,11 @@
             "AndreuCorden": 3,
             "elmmiret": 0,
             "julenguevara": 0,
-            "Wei-xu293": 0
+            "Wei-xu293": 1
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 4,
+        "total_closed": 5,
         "total": 39
     },
     "project": {
@@ -128,9 +128,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 2,
                 "total_features_ready": 0,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 2,
-                "total_features_done": 0,
+                "total_features_done": 1,
                 "total": 31
             },
             "total": {
@@ -183,9 +183,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 2,
                 "total_features_ready": 0,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 2,
-                "total_features_done": 0,
+                "total_features_done": 1,
                 "total": 31
             }
         }
