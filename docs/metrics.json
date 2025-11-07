@@ -147,8 +147,8 @@
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 0,
-                "total_features_in_progress": 3,
-                "total_features_in_review": 2,
+                "total_features_in_progress": 2,
+                "total_features_in_review": 3,
                 "total_features_done": 1,
                 "total": 31
             },
@@ -367,8 +367,8 @@
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 0,
-                "total_features_in_progress": 3,
-                "total_features_in_review": 2,
+                "total_features_in_progress": 2,
+                "total_features_in_review": 3,
                 "total_features_done": 1,
                 "total": 31
             }
