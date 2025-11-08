@@ -60,18 +60,18 @@
             "AndreuCorden": 4,
             "elmmiret": 6,
             "julenguevara": 0,
-            "Wei-xu293": 4,
-            "non_assigned": 25
+            "Wei-xu293": 5,
+            "non_assigned": 24
         },
         "closed": {
             "AndreuCorden": 3,
             "elmmiret": 0,
             "julenguevara": 0,
-            "Wei-xu293": 2
+            "Wei-xu293": 3
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 6,
+        "total_closed": 7,
         "total": 39
     },
     "project": {
@@ -102,7 +102,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0,
+                    "Wei-xu293": 1,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
@@ -133,17 +133,17 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 0,
+                "done": 1,
                 "total_issues": 31,
-                "total_issues_with_type": 10,
+                "total_issues_with_type": 11,
                 "total_features": 10,
-                "total_tasks": 0,
+                "total_tasks": 1,
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 0,
@@ -322,7 +322,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0,
+                    "Wei-xu293": 1,
                     "non_assigned": 0
                 },
                 "backlog_per_member": {
@@ -353,17 +353,17 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "backlog": 0,
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 0,
+                "done": 1,
                 "total_issues": 31,
-                "total_issues_with_type": 10,
+                "total_issues_with_type": 11,
                 "total_features": 10,
-                "total_tasks": 0,
+                "total_tasks": 1,
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 0,
