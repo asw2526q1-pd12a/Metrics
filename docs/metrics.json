@@ -65,13 +65,13 @@
         },
         "closed": {
             "AndreuCorden": 3,
-            "elmmiret": 0,
+            "elmmiret": 1,
             "julenguevara": 0,
             "Wei-xu293": 3
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 7,
+        "total_closed": 8,
         "total": 40
     },
     "project": {
@@ -147,9 +147,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 1,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 3,
-                "total_features_done": 1,
+                "total_features_done": 2,
                 "total": 32
             },
             "Iteration 2": {
@@ -367,9 +367,9 @@
                 "total_bugs": 0,
                 "total_features_backlog": 4,
                 "total_features_ready": 1,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 0,
                 "total_features_in_review": 3,
-                "total_features_done": 1,
+                "total_features_done": 2,
                 "total": 32
             }
         }
