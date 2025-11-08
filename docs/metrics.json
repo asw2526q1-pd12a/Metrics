@@ -8,18 +8,18 @@
         "Wei-xu293": "https://avatars.githubusercontent.com/u/231463705?v=4"
     },
     "commits": {
-        "AndreuCorden": 13,
+        "AndreuCorden": 14,
         "elmmiret": 21,
         "julenguevara": 11,
         "Wei-xu293": 39,
         "anonymous": 13,
-        "total": 97
+        "total": 98
     },
     "modified_lines": {
         "AndreuCorden": {
-            "additions": 2279,
-            "deletions": 670,
-            "modified": 2949
+            "additions": 2285,
+            "deletions": 673,
+            "modified": 2958
         },
         "elmmiret": {
             "additions": 4221,
@@ -37,9 +37,9 @@
             "modified": 3619
         },
         "total": {
-            "additions": 13994,
-            "deletions": 5672,
-            "modified": 19666
+            "additions": 14000,
+            "deletions": 5675,
+            "modified": 19675
         }
     },
     "commit_streak": {
