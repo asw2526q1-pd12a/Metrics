@@ -57,11 +57,11 @@
     },
     "issues": {
         "assigned": {
-            "AndreuCorden": 4,
+            "AndreuCorden": 5,
             "elmmiret": 5,
             "julenguevara": 0,
             "Wei-xu293": 6,
-            "non_assigned": 25
+            "non_assigned": 24
         },
         "closed": {
             "AndreuCorden": 4,
