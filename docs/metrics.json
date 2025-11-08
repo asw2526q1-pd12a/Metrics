@@ -32,14 +32,14 @@
             "modified": 8592
         },
         "Wei-xu293": {
-            "additions": 3215,
-            "deletions": 438,
-            "modified": 3653
+            "additions": 3180,
+            "deletions": 426,
+            "modified": 3606
         },
         "total": {
-            "additions": 13579,
-            "deletions": 5478,
-            "modified": 19057
+            "additions": 13544,
+            "deletions": 5466,
+            "modified": 19010
         }
     },
     "commit_streak": {
@@ -48,7 +48,7 @@
         "julenguevara": 3,
         "Wei-xu293": 4
     },
-    "commit_merges": 26,
+    "commit_merges": 27,
     "longest_commit_streak_per_user": {
         "AndreuCorden": 3,
         "elmmiret": 3,
