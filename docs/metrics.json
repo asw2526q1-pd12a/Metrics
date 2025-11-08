@@ -9,11 +9,11 @@
     },
     "commits": {
         "AndreuCorden": 11,
-        "elmmiret": 17,
+        "elmmiret": 18,
         "julenguevara": 11,
         "Wei-xu293": 32,
         "anonymous": 13,
-        "total": 84
+        "total": 85
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -22,9 +22,9 @@
             "modified": 1961
         },
         "elmmiret": {
-            "additions": 3614,
-            "deletions": 246,
-            "modified": 3860
+            "additions": 3616,
+            "deletions": 247,
+            "modified": 3863
         },
         "julenguevara": {
             "additions": 4303,
@@ -37,9 +37,9 @@
             "modified": 3498
         },
         "total": {
-            "additions": 12567,
-            "deletions": 5344,
-            "modified": 17911
+            "additions": 12569,
+            "deletions": 5345,
+            "modified": 17914
         }
     },
     "commit_streak": {
@@ -48,7 +48,7 @@
         "julenguevara": 3,
         "Wei-xu293": 4
     },
-    "commit_merges": 22,
+    "commit_merges": 21,
     "longest_commit_streak_per_user": {
         "AndreuCorden": 2,
         "elmmiret": 3,
@@ -121,13 +121,13 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 1
+                    "Wei-xu293": 0
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "done_per_member": {
                     "AndreuCorden": 0,
@@ -137,8 +137,8 @@
                 },
                 "backlog": 0,
                 "ready": 0,
-                "in_progress": 1,
-                "in_review": 0,
+                "in_progress": 0,
+                "in_review": 1,
                 "done": 1,
                 "total_issues": 31,
                 "total_issues_with_type": 13,
@@ -146,8 +146,8 @@
                 "total_tasks": 2,
                 "total_bugs": 0,
                 "total_features_backlog": 4,
-                "total_features_ready": 1,
-                "total_features_in_progress": 0,
+                "total_features_ready": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 3,
                 "total_features_done": 3,
                 "total": 31
@@ -341,13 +341,13 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 1
+                    "Wei-xu293": 0
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "done_per_member": {
                     "AndreuCorden": 0,
@@ -357,8 +357,8 @@
                 },
                 "backlog": 0,
                 "ready": 0,
-                "in_progress": 1,
-                "in_review": 0,
+                "in_progress": 0,
+                "in_review": 1,
                 "done": 1,
                 "total_issues": 31,
                 "total_issues_with_type": 13,
@@ -366,8 +366,8 @@
                 "total_tasks": 2,
                 "total_bugs": 0,
                 "total_features_backlog": 4,
-                "total_features_ready": 1,
-                "total_features_in_progress": 0,
+                "total_features_ready": 0,
+                "total_features_in_progress": 1,
                 "total_features_in_review": 3,
                 "total_features_done": 3,
                 "total": 31
