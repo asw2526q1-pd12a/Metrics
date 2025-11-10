@@ -57,7 +57,7 @@
     },
     "issues": {
         "assigned": {
-            "AndreuCorden": 5,
+            "AndreuCorden": 6,
             "elmmiret": 6,
             "julenguevara": 0,
             "Wei-xu293": 6,
@@ -72,7 +72,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 14,
-        "total": 41
+        "total": 42
     },
     "project": {
         "has_iterations": true,
@@ -140,7 +140,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 2,
-                "total_issues": 32,
+                "total_issues": 33,
                 "total_issues_with_type": 14,
                 "total_features": 12,
                 "total_tasks": 2,
@@ -150,7 +150,7 @@
                 "total_features_in_progress": 1,
                 "total_features_in_review": 3,
                 "total_features_done": 4,
-                "total": 32
+                "total": 33
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -360,7 +360,7 @@
                 "in_progress": 0,
                 "in_review": 0,
                 "done": 2,
-                "total_issues": 32,
+                "total_issues": 33,
                 "total_issues_with_type": 14,
                 "total_features": 12,
                 "total_tasks": 2,
@@ -370,7 +370,7 @@
                 "total_features_in_progress": 1,
                 "total_features_in_review": 3,
                 "total_features_done": 4,
-                "total": 32
+                "total": 33
             }
         }
     },
