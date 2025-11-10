@@ -43,9 +43,9 @@
         }
     },
     "commit_streak": {
-        "AndreuCorden": 3,
+        "AndreuCorden": 0,
         "elmmiret": 4,
-        "julenguevara": 3,
+        "julenguevara": 0,
         "Wei-xu293": 5
     },
     "commit_merges": 30,
@@ -64,14 +64,14 @@
             "non_assigned": 24
         },
         "closed": {
-            "AndreuCorden": 4,
+            "AndreuCorden": 5,
             "elmmiret": 4,
             "julenguevara": 0,
             "Wei-xu293": 4
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 13,
+        "total_closed": 14,
         "total": 41
     },
     "project": {
