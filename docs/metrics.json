@@ -59,9 +59,9 @@
         "assigned": {
             "AndreuCorden": 7,
             "elmmiret": 6,
-            "julenguevara": 0,
+            "julenguevara": 1,
             "Wei-xu293": 6,
-            "non_assigned": 23
+            "non_assigned": 22
         },
         "closed": {
             "AndreuCorden": 6,
@@ -145,9 +145,9 @@
                 "total_features": 12,
                 "total_tasks": 2,
                 "total_bugs": 0,
-                "total_features_backlog": 4,
+                "total_features_backlog": 3,
                 "total_features_ready": 0,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 2,
                 "total_features_in_review": 3,
                 "total_features_done": 4,
                 "total": 33
@@ -365,9 +365,9 @@
                 "total_features": 12,
                 "total_tasks": 2,
                 "total_bugs": 0,
-                "total_features_backlog": 4,
+                "total_features_backlog": 3,
                 "total_features_ready": 0,
-                "total_features_in_progress": 1,
+                "total_features_in_progress": 2,
                 "total_features_in_review": 3,
                 "total_features_done": 4,
                 "total": 33
