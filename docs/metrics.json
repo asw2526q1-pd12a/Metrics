@@ -57,21 +57,21 @@
     },
     "issues": {
         "assigned": {
-            "AndreuCorden": 6,
+            "AndreuCorden": 7,
             "elmmiret": 6,
             "julenguevara": 0,
             "Wei-xu293": 6,
-            "non_assigned": 24
+            "non_assigned": 23
         },
         "closed": {
-            "AndreuCorden": 5,
+            "AndreuCorden": 6,
             "elmmiret": 4,
             "julenguevara": 0,
             "Wei-xu293": 4
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 16,
+        "total_closed": 17,
         "total": 42
     },
     "project": {
