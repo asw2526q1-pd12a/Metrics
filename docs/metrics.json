@@ -379,7 +379,7 @@
             "AndreuCorden": 8,
             "elmmiret": 10,
             "julenguevara": 2,
-            "Wei-xu293": 13
+            "Wei-xu293": 14
         },
         "merged_per_member": {
             "AndreuCorden": 4,
@@ -390,6 +390,6 @@
         "merged": 24,
         "not_merged_by_author": 6,
         "closed": 9,
-        "total": 33
+        "total": 34
     }
 }
