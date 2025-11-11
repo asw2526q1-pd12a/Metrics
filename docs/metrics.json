@@ -11,9 +11,9 @@
         "AndreuCorden": 19,
         "elmmiret": 28,
         "julenguevara": 18,
-        "Wei-xu293": 45,
+        "Wei-xu293": 46,
         "anonymous": 12,
-        "total": 122
+        "total": 123
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -32,14 +32,14 @@
             "modified": 8795
         },
         "Wei-xu293": {
-            "additions": 3490,
-            "deletions": 642,
-            "modified": 4132
+            "additions": 3510,
+            "deletions": 653,
+            "modified": 4163
         },
         "total": {
-            "additions": 15510,
-            "deletions": 6695,
-            "modified": 22205
+            "additions": 15530,
+            "deletions": 6706,
+            "modified": 22236
         }
     },
     "commit_streak": {
@@ -146,8 +146,8 @@
                 "total_tasks": 6,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
-                "total_features_ready": 1,
-                "total_features_in_progress": 2,
+                "total_features_ready": 0,
+                "total_features_in_progress": 3,
                 "total_features_in_review": 2,
                 "total_features_done": 6,
                 "total": 36
@@ -366,8 +366,8 @@
                 "total_tasks": 6,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
-                "total_features_ready": 1,
-                "total_features_in_progress": 2,
+                "total_features_ready": 0,
+                "total_features_in_progress": 3,
                 "total_features_in_review": 2,
                 "total_features_done": 6,
                 "total": 36
