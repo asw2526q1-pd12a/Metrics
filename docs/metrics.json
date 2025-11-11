@@ -44,7 +44,7 @@
     },
     "commit_streak": {
         "AndreuCorden": 1,
-        "elmmiret": 4,
+        "elmmiret": 0,
         "julenguevara": 0,
         "Wei-xu293": 6
     },
@@ -57,14 +57,14 @@
     },
     "issues": {
         "assigned": {
-            "AndreuCorden": 7,
+            "AndreuCorden": 9,
             "elmmiret": 6,
             "julenguevara": 1,
             "Wei-xu293": 8,
-            "non_assigned": 21
+            "non_assigned": 19
         },
         "closed": {
-            "AndreuCorden": 6,
+            "AndreuCorden": 8,
             "elmmiret": 4,
             "julenguevara": 0,
             "Wei-xu293": 7
