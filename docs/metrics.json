@@ -9,11 +9,11 @@
     },
     "commits": {
         "AndreuCorden": 17,
-        "elmmiret": 24,
+        "elmmiret": 25,
         "julenguevara": 11,
         "Wei-xu293": 43,
         "anonymous": 13,
-        "total": 108
+        "total": 109
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -22,9 +22,9 @@
             "modified": 3444
         },
         "elmmiret": {
-            "additions": 4475,
-            "deletions": 429,
-            "modified": 4904
+            "additions": 4667,
+            "deletions": 580,
+            "modified": 5247
         },
         "julenguevara": {
             "additions": 4303,
@@ -37,14 +37,14 @@
             "modified": 4071
         },
         "total": {
-            "additions": 14842,
-            "deletions": 6169,
-            "modified": 21011
+            "additions": 15034,
+            "deletions": 6320,
+            "modified": 21354
         }
     },
     "commit_streak": {
         "AndreuCorden": 1,
-        "elmmiret": 0,
+        "elmmiret": 1,
         "julenguevara": 0,
         "Wei-xu293": 6
     },
@@ -377,7 +377,7 @@
     "pull_requests": {
         "created": {
             "AndreuCorden": 7,
-            "elmmiret": 7,
+            "elmmiret": 8,
             "julenguevara": 2,
             "Wei-xu293": 11
         },
@@ -390,6 +390,6 @@
         "merged": 19,
         "not_merged_by_author": 5,
         "closed": 7,
-        "total": 27
+        "total": 28
     }
 }
