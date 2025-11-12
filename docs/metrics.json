@@ -376,7 +376,7 @@
     },
     "pull_requests": {
         "created": {
-            "AndreuCorden": 9,
+            "AndreuCorden": 10,
             "elmmiret": 10,
             "julenguevara": 3,
             "Wei-xu293": 15
@@ -390,6 +390,6 @@
         "merged": 28,
         "not_merged_by_author": 9,
         "closed": 9,
-        "total": 37
+        "total": 38
     }
 }
