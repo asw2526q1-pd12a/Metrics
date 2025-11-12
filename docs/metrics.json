@@ -67,11 +67,11 @@
             "AndreuCorden": 10,
             "elmmiret": 6,
             "julenguevara": 1,
-            "Wei-xu293": 9
+            "Wei-xu293": 10
         },
-        "have_pull_request": 3,
-        "assignee_is_pr_author": 3,
-        "total_closed": 27,
+        "have_pull_request": 4,
+        "assignee_is_pr_author": 4,
+        "total_closed": 28,
         "total": 47
     },
     "project": {
@@ -148,8 +148,8 @@
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 3,
-                "total_features_done": 9,
+                "total_features_in_review": 2,
+                "total_features_done": 10,
                 "total": 37
             },
             "Iteration 2": {
@@ -368,8 +368,8 @@
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 3,
-                "total_features_done": 9,
+                "total_features_in_review": 2,
+                "total_features_done": 10,
                 "total": 37
             }
         }
@@ -377,7 +377,7 @@
     "pull_requests": {
         "created": {
             "AndreuCorden": 11,
-            "elmmiret": 10,
+            "elmmiret": 11,
             "julenguevara": 4,
             "Wei-xu293": 16
         },
@@ -390,6 +390,6 @@
         "merged": 32,
         "not_merged_by_author": 10,
         "closed": 9,
-        "total": 41
+        "total": 42
     }
 }
