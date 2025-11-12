@@ -64,14 +64,14 @@
             "non_assigned": 17
         },
         "closed": {
-            "AndreuCorden": 9,
+            "AndreuCorden": 10,
             "elmmiret": 5,
             "julenguevara": 0,
             "Wei-xu293": 8
         },
         "have_pull_request": 3,
         "assignee_is_pr_author": 3,
-        "total_closed": 23,
+        "total_closed": 24,
         "total": 46
     },
     "project": {
