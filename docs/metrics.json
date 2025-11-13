@@ -57,21 +57,21 @@
     },
     "issues": {
         "assigned": {
-            "AndreuCorden": 12,
+            "AndreuCorden": 13,
             "elmmiret": 9,
             "julenguevara": 1,
             "Wei-xu293": 10,
-            "non_assigned": 16
+            "non_assigned": 15
         },
         "closed": {
-            "AndreuCorden": 10,
+            "AndreuCorden": 12,
             "elmmiret": 8,
             "julenguevara": 1,
             "Wei-xu293": 10
         },
         "have_pull_request": 4,
         "assignee_is_pr_author": 4,
-        "total_closed": 32,
+        "total_closed": 34,
         "total": 48
     },
     "project": {
@@ -148,8 +148,8 @@
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 2,
-                "total_features_done": 15,
+                "total_features_in_review": 0,
+                "total_features_done": 17,
                 "total": 37
             },
             "Iteration 2": {
@@ -368,8 +368,8 @@
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
-                "total_features_in_review": 2,
-                "total_features_done": 15,
+                "total_features_in_review": 0,
+                "total_features_done": 17,
                 "total": 37
             }
         }
