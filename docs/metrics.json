@@ -11,9 +11,9 @@
         "AndreuCorden": 23,
         "elmmiret": 41,
         "julenguevara": 28,
-        "Wei-xu293": 60,
+        "Wei-xu293": 61,
         "anonymous": 12,
-        "total": 164
+        "total": 165
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -32,14 +32,14 @@
             "modified": 17985
         },
         "Wei-xu293": {
-            "additions": 3683,
-            "deletions": 688,
-            "modified": 4371
+            "additions": 3686,
+            "deletions": 708,
+            "modified": 4394
         },
         "total": {
-            "additions": 21039,
-            "deletions": 11787,
-            "modified": 32826
+            "additions": 21042,
+            "deletions": 11807,
+            "modified": 32849
         }
     },
     "commit_streak": {
@@ -99,8 +99,8 @@
         "metrics_by_iteration": {
             "Iteration 1": {
                 "assigned_per_member": {
-                    "AndreuCorden": 3,
-                    "elmmiret": 1,
+                    "AndreuCorden": 5,
+                    "elmmiret": 2,
                     "julenguevara": 0,
                     "Wei-xu293": 5,
                     "non_assigned": 4
@@ -130,8 +130,8 @@
                     "Wei-xu293": 0
                 },
                 "done_per_member": {
-                    "AndreuCorden": 3,
-                    "elmmiret": 1,
+                    "AndreuCorden": 5,
+                    "elmmiret": 2,
                     "julenguevara": 0,
                     "Wei-xu293": 5
                 },
@@ -139,17 +139,17 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 13,
+                "done": 16,
                 "total_issues": 36,
                 "total_issues_with_type": 33,
-                "total_features": 20,
-                "total_tasks": 13,
+                "total_features": 17,
+                "total_tasks": 16,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 20,
+                "total_features_done": 17,
                 "total": 36
             },
             "Iteration 2": {
@@ -319,8 +319,8 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "AndreuCorden": 3,
-                    "elmmiret": 1,
+                    "AndreuCorden": 5,
+                    "elmmiret": 2,
                     "julenguevara": 0,
                     "Wei-xu293": 5,
                     "non_assigned": 4
@@ -350,8 +350,8 @@
                     "Wei-xu293": 0
                 },
                 "done_per_member": {
-                    "AndreuCorden": 3,
-                    "elmmiret": 1,
+                    "AndreuCorden": 5,
+                    "elmmiret": 2,
                     "julenguevara": 0,
                     "Wei-xu293": 5
                 },
@@ -359,17 +359,17 @@
                 "ready": 0,
                 "in_progress": 0,
                 "in_review": 0,
-                "done": 13,
+                "done": 16,
                 "total_issues": 36,
                 "total_issues_with_type": 33,
-                "total_features": 20,
-                "total_tasks": 13,
+                "total_features": 17,
+                "total_tasks": 16,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 20,
+                "total_features_done": 17,
                 "total": 36
             }
         }
