@@ -48,7 +48,7 @@
         "julenguevara": 2,
         "Wei-xu293": 9
     },
-    "commit_merges": 51,
+    "commit_merges": 52,
     "longest_commit_streak_per_user": {
         "AndreuCorden": 4,
         "elmmiret": 4,
@@ -377,7 +377,7 @@
     "pull_requests": {
         "created": {
             "AndreuCorden": 12,
-            "elmmiret": 15,
+            "elmmiret": 16,
             "julenguevara": 4,
             "Wei-xu293": 20
         },
@@ -389,7 +389,7 @@
         },
         "merged": 41,
         "not_merged_by_author": 13,
-        "closed": 10,
-        "total": 51
+        "closed": 11,
+        "total": 52
     }
 }
