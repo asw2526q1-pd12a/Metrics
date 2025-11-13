@@ -57,14 +57,14 @@
     },
     "issues": {
         "assigned": {
-            "AndreuCorden": 13,
+            "AndreuCorden": 14,
             "elmmiret": 10,
             "julenguevara": 1,
             "Wei-xu293": 10,
-            "non_assigned": 15
+            "non_assigned": 14
         },
         "closed": {
-            "AndreuCorden": 13,
+            "AndreuCorden": 14,
             "elmmiret": 10,
             "julenguevara": 1,
             "Wei-xu293": 10
@@ -141,15 +141,15 @@
                 "in_review": 0,
                 "done": 16,
                 "total_issues": 37,
-                "total_issues_with_type": 34,
-                "total_features": 18,
+                "total_issues_with_type": 35,
+                "total_features": 19,
                 "total_tasks": 16,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 18,
+                "total_features_done": 19,
                 "total": 37
             },
             "Iteration 2": {
@@ -361,15 +361,15 @@
                 "in_review": 0,
                 "done": 16,
                 "total_issues": 37,
-                "total_issues_with_type": 34,
-                "total_features": 18,
+                "total_issues_with_type": 35,
+                "total_features": 19,
                 "total_tasks": 16,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 18,
+                "total_features_done": 19,
                 "total": 37
             }
         }
