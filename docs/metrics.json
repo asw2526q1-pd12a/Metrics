@@ -58,20 +58,20 @@
     "issues": {
         "assigned": {
             "AndreuCorden": 13,
-            "elmmiret": 9,
+            "elmmiret": 10,
             "julenguevara": 1,
             "Wei-xu293": 10,
-            "non_assigned": 15
+            "non_assigned": 14
         },
         "closed": {
             "AndreuCorden": 13,
-            "elmmiret": 8,
+            "elmmiret": 9,
             "julenguevara": 1,
             "Wei-xu293": 10
         },
         "have_pull_request": 4,
         "assignee_is_pr_author": 4,
-        "total_closed": 35,
+        "total_closed": 36,
         "total": 48
     },
     "project": {
@@ -141,15 +141,15 @@
                 "in_review": 0,
                 "done": 11,
                 "total_issues": 37,
-                "total_issues_with_type": 30,
-                "total_features": 18,
+                "total_issues_with_type": 31,
+                "total_features": 19,
                 "total_tasks": 12,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 17,
+                "total_features_done": 18,
                 "total": 37
             },
             "Iteration 2": {
@@ -361,15 +361,15 @@
                 "in_review": 0,
                 "done": 11,
                 "total_issues": 37,
-                "total_issues_with_type": 30,
-                "total_features": 18,
+                "total_issues_with_type": 31,
+                "total_features": 19,
                 "total_tasks": 12,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
-                "total_features_done": 17,
+                "total_features_done": 18,
                 "total": 37
             }
         }
