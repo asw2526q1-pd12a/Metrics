@@ -58,20 +58,20 @@
     "issues": {
         "assigned": {
             "AndreuCorden": 11,
-            "elmmiret": 8,
+            "elmmiret": 9,
             "julenguevara": 1,
             "Wei-xu293": 10,
-            "non_assigned": 18
+            "non_assigned": 17
         },
         "closed": {
             "AndreuCorden": 10,
-            "elmmiret": 6,
+            "elmmiret": 7,
             "julenguevara": 1,
             "Wei-xu293": 10
         },
         "have_pull_request": 4,
         "assignee_is_pr_author": 4,
-        "total_closed": 30,
+        "total_closed": 31,
         "total": 48
     },
     "project": {
@@ -141,15 +141,15 @@
                 "in_review": 0,
                 "done": 8,
                 "total_issues": 38,
-                "total_issues_with_type": 22,
-                "total_features": 13,
+                "total_issues_with_type": 23,
+                "total_features": 14,
                 "total_tasks": 9,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 2,
-                "total_features_done": 10,
+                "total_features_done": 11,
                 "total": 38
             },
             "Iteration 2": {
@@ -361,15 +361,15 @@
                 "in_review": 0,
                 "done": 8,
                 "total_issues": 38,
-                "total_issues_with_type": 22,
-                "total_features": 13,
+                "total_issues_with_type": 23,
+                "total_features": 14,
                 "total_tasks": 9,
                 "total_bugs": 0,
                 "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 2,
-                "total_features_done": 10,
+                "total_features_done": 11,
                 "total": 38
             }
         }
