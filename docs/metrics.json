@@ -61,7 +61,7 @@
             "elmmiret": 10,
             "julenguevara": 1,
             "Wei-xu293": 12,
-            "non_assigned": 15
+            "non_assigned": 16
         },
         "closed": {
             "AndreuCorden": 14,
@@ -72,7 +72,7 @@
         "have_pull_request": 4,
         "assignee_is_pr_author": 4,
         "total_closed": 49,
-        "total": 52
+        "total": 53
     },
     "project": {
         "has_iterations": true,
@@ -140,17 +140,17 @@
                 "in_progress": 1,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 3,
-                "total_issues_with_type": 2,
-                "total_features": 1,
+                "total_issues": 4,
+                "total_issues_with_type": 3,
+                "total_features": 2,
                 "total_tasks": 1,
                 "total_bugs": 0,
-                "total_features_backlog": 0,
+                "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 3
+                "total": 4
             },
             "Iteration 3": {
                 "assigned_per_member": {
@@ -360,17 +360,17 @@
                 "in_progress": 1,
                 "in_review": 0,
                 "done": 17,
-                "total_issues": 38,
-                "total_issues_with_type": 37,
-                "total_features": 19,
+                "total_issues": 39,
+                "total_issues_with_type": 38,
+                "total_features": 20,
                 "total_tasks": 18,
                 "total_bugs": 0,
-                "total_features_backlog": 0,
+                "total_features_backlog": 1,
                 "total_features_ready": 0,
                 "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 18,
-                "total": 38
+                "total": 39
             }
         }
     },
