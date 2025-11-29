@@ -109,7 +109,7 @@
                     "AndreuCorden": 2,
                     "elmmiret": 2,
                     "julenguevara": 2,
-                    "Wei-xu293": 2
+                    "Wei-xu293": 1
                 },
                 "ready_per_member": {
                     "AndreuCorden": 0,
@@ -121,7 +121,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -135,9 +135,9 @@
                     "julenguevara": 0,
                     "Wei-xu293": 1
                 },
-                "backlog": 8,
+                "backlog": 7,
                 "ready": 0,
-                "in_progress": 0,
+                "in_progress": 1,
                 "in_review": 0,
                 "done": 1,
                 "total_issues": 13,
@@ -329,7 +329,7 @@
                     "AndreuCorden": 2,
                     "elmmiret": 2,
                     "julenguevara": 2,
-                    "Wei-xu293": 2
+                    "Wei-xu293": 1
                 },
                 "ready_per_member": {
                     "AndreuCorden": 0,
@@ -341,7 +341,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -355,9 +355,9 @@
                     "julenguevara": 0,
                     "Wei-xu293": 5
                 },
-                "backlog": 8,
+                "backlog": 7,
                 "ready": 0,
-                "in_progress": 0,
+                "in_progress": 1,
                 "in_review": 0,
                 "done": 19,
                 "total_issues": 50,
