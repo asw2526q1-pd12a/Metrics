@@ -11,9 +11,9 @@
         "AndreuCorden": 38,
         "elmmiret": 38,
         "julenguevara": 36,
-        "Wei-xu293": 70,
+        "Wei-xu293": 71,
         "anonymous": 15,
-        "total": 197
+        "total": 198
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -32,20 +32,20 @@
             "modified": 19257
         },
         "Wei-xu293": {
-            "additions": 4260,
-            "deletions": 769,
-            "modified": 5029
+            "additions": 4694,
+            "deletions": 781,
+            "modified": 5475
         },
         "total": {
-            "additions": 23433,
-            "deletions": 12439,
-            "modified": 35872
+            "additions": 23867,
+            "deletions": 12451,
+            "modified": 36318
         }
     },
     "commit_streak": {
-        "AndreuCorden": 1,
+        "AndreuCorden": 0,
         "elmmiret": 0,
-        "julenguevara": 1,
+        "julenguevara": 0,
         "Wei-xu293": 1
     },
     "commit_merges": 59,
@@ -61,7 +61,7 @@
             "elmmiret": 12,
             "julenguevara": 3,
             "Wei-xu293": 15,
-            "non_assigned": 18
+            "non_assigned": 19
         },
         "closed": {
             "AndreuCorden": 14,
@@ -72,7 +72,7 @@
         "have_pull_request": 7,
         "assignee_is_pr_author": 7,
         "total_closed": 54,
-        "total": 64
+        "total": 65
     },
     "project": {
         "has_iterations": true,
@@ -140,7 +140,7 @@
                 "in_progress": 1,
                 "in_review": 0,
                 "done": 1,
-                "total_issues": 13,
+                "total_issues": 14,
                 "total_issues_with_type": 12,
                 "total_features": 2,
                 "total_tasks": 9,
@@ -150,7 +150,7 @@
                 "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 1,
-                "total": 13
+                "total": 14
             },
             "Iteration 3": {
                 "assigned_per_member": {
@@ -360,7 +360,7 @@
                 "in_progress": 1,
                 "in_review": 0,
                 "done": 19,
-                "total_issues": 50,
+                "total_issues": 51,
                 "total_issues_with_type": 48,
                 "total_features": 20,
                 "total_tasks": 27,
@@ -370,7 +370,7 @@
                 "total_features_in_progress": 1,
                 "total_features_in_review": 0,
                 "total_features_done": 19,
-                "total": 50
+                "total": 51
             }
         }
     },
