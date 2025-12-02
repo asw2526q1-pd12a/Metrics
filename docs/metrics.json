@@ -46,7 +46,7 @@
         "AndreuCorden": 0,
         "elmmiret": 1,
         "julenguevara": 1,
-        "Wei-xu293": 2
+        "Wei-xu293": 0
     },
     "commit_merges": 59,
     "longest_commit_streak_per_user": {
@@ -66,12 +66,12 @@
         "closed": {
             "AndreuCorden": 14,
             "elmmiret": 10,
-            "julenguevara": 1,
+            "julenguevara": 2,
             "Wei-xu293": 14
         },
         "have_pull_request": 8,
         "assignee_is_pr_author": 8,
-        "total_closed": 56,
+        "total_closed": 57,
         "total": 65
     },
     "project": {
@@ -120,7 +120,7 @@
                 "in_progress_per_member": {
                     "AndreuCorden": 0,
                     "elmmiret": 0,
-                    "julenguevara": 1,
+                    "julenguevara": 0,
                     "Wei-xu293": 0
                 },
                 "in_review_per_member": {
@@ -132,14 +132,14 @@
                 "done_per_member": {
                     "AndreuCorden": 0,
                     "elmmiret": 0,
-                    "julenguevara": 0,
+                    "julenguevara": 1,
                     "Wei-xu293": 2
                 },
                 "backlog": 5,
                 "ready": 1,
-                "in_progress": 1,
+                "in_progress": 0,
                 "in_review": 0,
-                "done": 2,
+                "done": 3,
                 "total_issues": 14,
                 "total_issues_with_type": 12,
                 "total_features": 2,
@@ -340,7 +340,7 @@
                 "in_progress_per_member": {
                     "AndreuCorden": 0,
                     "elmmiret": 0,
-                    "julenguevara": 1,
+                    "julenguevara": 0,
                     "Wei-xu293": 0
                 },
                 "in_review_per_member": {
@@ -352,14 +352,14 @@
                 "done_per_member": {
                     "AndreuCorden": 5,
                     "elmmiret": 4,
-                    "julenguevara": 0,
+                    "julenguevara": 1,
                     "Wei-xu293": 6
                 },
                 "backlog": 5,
                 "ready": 1,
-                "in_progress": 1,
+                "in_progress": 0,
                 "in_review": 0,
-                "done": 20,
+                "done": 21,
                 "total_issues": 51,
                 "total_issues_with_type": 48,
                 "total_features": 20,
