@@ -12,8 +12,8 @@
         "elmmiret": 39,
         "julenguevara": 40,
         "Wei-xu293": 77,
-        "anonymous": 13,
-        "total": 207
+        "anonymous": 3,
+        "total": 197
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -48,7 +48,7 @@
         "julenguevara": 1,
         "Wei-xu293": 0
     },
-    "commit_merges": 59,
+    "commit_merges": 54,
     "longest_commit_streak_per_user": {
         "AndreuCorden": 5,
         "elmmiret": 4,
