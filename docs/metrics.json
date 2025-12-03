@@ -118,7 +118,7 @@
                     "Wei-xu293": 0
                 },
                 "in_progress_per_member": {
-                    "AndreuCorden": 0,
+                    "AndreuCorden": 1,
                     "elmmiret": 0,
                     "julenguevara": 0,
                     "Wei-xu293": 1
@@ -130,16 +130,16 @@
                     "Wei-xu293": 0
                 },
                 "done_per_member": {
-                    "AndreuCorden": 1,
+                    "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 2,
                     "Wei-xu293": 2
                 },
                 "backlog": 2,
                 "ready": 0,
-                "in_progress": 1,
+                "in_progress": 2,
                 "in_review": 1,
-                "done": 5,
+                "done": 4,
                 "total_issues": 14,
                 "total_issues_with_type": 12,
                 "total_features": 2,
@@ -338,7 +338,7 @@
                     "Wei-xu293": 0
                 },
                 "in_progress_per_member": {
-                    "AndreuCorden": 0,
+                    "AndreuCorden": 1,
                     "elmmiret": 0,
                     "julenguevara": 0,
                     "Wei-xu293": 1
@@ -350,16 +350,16 @@
                     "Wei-xu293": 0
                 },
                 "done_per_member": {
-                    "AndreuCorden": 6,
+                    "AndreuCorden": 5,
                     "elmmiret": 4,
                     "julenguevara": 2,
                     "Wei-xu293": 6
                 },
                 "backlog": 2,
                 "ready": 0,
-                "in_progress": 1,
+                "in_progress": 2,
                 "in_review": 1,
-                "done": 23,
+                "done": 22,
                 "total_issues": 51,
                 "total_issues_with_type": 48,
                 "total_features": 20,
@@ -382,12 +382,12 @@
             "Wei-xu293": 25
         },
         "merged_per_member": {
-            "AndreuCorden": 11,
+            "AndreuCorden": 12,
             "elmmiret": 13,
             "julenguevara": 6,
             "Wei-xu293": 23
         },
-        "merged": 53,
+        "merged": 54,
         "not_merged_by_author": 19,
         "closed": 12,
         "total": 67
