@@ -60,8 +60,8 @@
             "AndreuCorden": 17,
             "elmmiret": 11,
             "julenguevara": 4,
-            "Wei-xu293": 18,
-            "non_assigned": 26
+            "Wei-xu293": 19,
+            "non_assigned": 25
         },
         "closed": {
             "AndreuCorden": 17,
@@ -102,8 +102,8 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 3,
-                    "non_assigned": 6
+                    "Wei-xu293": 4,
+                    "non_assigned": 5
                 },
                 "backlog_per_member": {
                     "AndreuCorden": 0,
@@ -121,7 +121,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 1
+                    "Wei-xu293": 2
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -136,8 +136,8 @@
                     "Wei-xu293": 2
                 },
                 "backlog": 0,
-                "ready": 4,
-                "in_progress": 1,
+                "ready": 3,
+                "in_progress": 2,
                 "in_review": 0,
                 "done": 4,
                 "total_issues": 9,
@@ -322,8 +322,8 @@
                     "AndreuCorden": 7,
                     "elmmiret": 5,
                     "julenguevara": 3,
-                    "Wei-xu293": 10,
-                    "non_assigned": 11
+                    "Wei-xu293": 11,
+                    "non_assigned": 10
                 },
                 "backlog_per_member": {
                     "AndreuCorden": 0,
@@ -341,7 +341,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 1
+                    "Wei-xu293": 2
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -356,8 +356,8 @@
                     "Wei-xu293": 9
                 },
                 "backlog": 0,
-                "ready": 4,
-                "in_progress": 1,
+                "ready": 3,
+                "in_progress": 2,
                 "in_review": 0,
                 "done": 31,
                 "total_issues": 60,
