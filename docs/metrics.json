@@ -10,10 +10,10 @@
     "commits": {
         "AndreuCorden": 46,
         "elmmiret": 44,
-        "julenguevara": 48,
-        "Wei-xu293": 88,
+        "julenguevara": 50,
+        "Wei-xu293": 91,
         "anonymous": 3,
-        "total": 229
+        "total": 234
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -27,19 +27,19 @@
             "modified": 117033
         },
         "julenguevara": {
-            "additions": 10387,
-            "deletions": 9393,
-            "modified": 19780
+            "additions": 10774,
+            "deletions": 9789,
+            "modified": 20563
         },
         "Wei-xu293": {
-            "additions": 7531,
-            "deletions": 2414,
-            "modified": 9945
+            "additions": 7535,
+            "deletions": 2480,
+            "modified": 10015
         },
         "total": {
-            "additions": 137893,
-            "deletions": 14443,
-            "modified": 152336
+            "additions": 138284,
+            "deletions": 14905,
+            "modified": 153189
         }
     },
     "commit_streak": {
@@ -60,8 +60,8 @@
             "AndreuCorden": 17,
             "elmmiret": 11,
             "julenguevara": 4,
-            "Wei-xu293": 15,
-            "non_assigned": 25
+            "Wei-xu293": 16,
+            "non_assigned": 24
         },
         "closed": {
             "AndreuCorden": 17,
@@ -102,7 +102,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0,
+                    "Wei-xu293": 1,
                     "non_assigned": 6
                 },
                 "backlog_per_member": {
@@ -121,7 +121,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -137,20 +137,20 @@
                 },
                 "backlog": 6,
                 "ready": 0,
-                "in_progress": 0,
+                "in_progress": 1,
                 "in_review": 0,
                 "done": 0,
-                "total_issues": 6,
-                "total_issues_with_type": 6,
+                "total_issues": 7,
+                "total_issues_with_type": 7,
                 "total_features": 0,
-                "total_tasks": 6,
+                "total_tasks": 7,
                 "total_bugs": 0,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 0,
-                "total": 6
+                "total": 7
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -322,7 +322,7 @@
                     "AndreuCorden": 7,
                     "elmmiret": 5,
                     "julenguevara": 3,
-                    "Wei-xu293": 7,
+                    "Wei-xu293": 8,
                     "non_assigned": 11
                 },
                 "backlog_per_member": {
@@ -341,7 +341,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -357,20 +357,20 @@
                 },
                 "backlog": 6,
                 "ready": 0,
-                "in_progress": 0,
+                "in_progress": 1,
                 "in_review": 0,
                 "done": 27,
-                "total_issues": 57,
-                "total_issues_with_type": 54,
+                "total_issues": 58,
+                "total_issues_with_type": 55,
                 "total_features": 20,
-                "total_tasks": 33,
+                "total_tasks": 34,
                 "total_bugs": 1,
                 "total_features_backlog": 0,
                 "total_features_ready": 0,
                 "total_features_in_progress": 0,
                 "total_features_in_review": 0,
                 "total_features_done": 20,
-                "total": 57
+                "total": 58
             }
         }
     },
