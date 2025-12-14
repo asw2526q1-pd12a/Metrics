@@ -67,11 +67,11 @@
             "AndreuCorden": 17,
             "elmmiret": 11,
             "julenguevara": 4,
-            "Wei-xu293": 22
+            "Wei-xu293": 23
         },
-        "have_pull_request": 15,
-        "assignee_is_pr_author": 15,
-        "total_closed": 72,
+        "have_pull_request": 16,
+        "assignee_is_pr_author": 16,
+        "total_closed": 73,
         "total": 76
     },
     "project": {
@@ -121,7 +121,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 1
+                    "Wei-xu293": 0
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -133,13 +133,13 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 7
+                    "Wei-xu293": 8
                 },
                 "backlog": 0,
                 "ready": 1,
-                "in_progress": 1,
+                "in_progress": 0,
                 "in_review": 0,
-                "done": 7,
+                "done": 8,
                 "total_issues": 9,
                 "total_issues_with_type": 9,
                 "total_features": 0,
@@ -341,7 +341,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 1
+                    "Wei-xu293": 0
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -353,13 +353,13 @@
                     "AndreuCorden": 7,
                     "elmmiret": 5,
                     "julenguevara": 3,
-                    "Wei-xu293": 14
+                    "Wei-xu293": 15
                 },
                 "backlog": 0,
                 "ready": 1,
-                "in_progress": 1,
+                "in_progress": 0,
                 "in_review": 0,
-                "done": 34,
+                "done": 35,
                 "total_issues": 60,
                 "total_issues_with_type": 57,
                 "total_features": 20,
