@@ -60,17 +60,17 @@
             "AndreuCorden": 17,
             "elmmiret": 11,
             "julenguevara": 4,
-            "Wei-xu293": 19,
-            "non_assigned": 25
+            "Wei-xu293": 23,
+            "non_assigned": 21
         },
         "closed": {
             "AndreuCorden": 17,
             "elmmiret": 11,
             "julenguevara": 4,
-            "Wei-xu293": 19
+            "Wei-xu293": 22
         },
-        "have_pull_request": 12,
-        "assignee_is_pr_author": 12,
+        "have_pull_request": 15,
+        "assignee_is_pr_author": 15,
         "total_closed": 72,
         "total": 76
     },
@@ -102,8 +102,8 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 4,
-                    "non_assigned": 5
+                    "Wei-xu293": 8,
+                    "non_assigned": 1
                 },
                 "backlog_per_member": {
                     "AndreuCorden": 0,
@@ -121,7 +121,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -133,7 +133,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 4
+                    "Wei-xu293": 7
                 },
                 "backlog": 0,
                 "ready": 1,
@@ -322,8 +322,8 @@
                     "AndreuCorden": 7,
                     "elmmiret": 5,
                     "julenguevara": 3,
-                    "Wei-xu293": 11,
-                    "non_assigned": 10
+                    "Wei-xu293": 15,
+                    "non_assigned": 6
                 },
                 "backlog_per_member": {
                     "AndreuCorden": 0,
@@ -341,7 +341,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -353,7 +353,7 @@
                     "AndreuCorden": 7,
                     "elmmiret": 5,
                     "julenguevara": 3,
-                    "Wei-xu293": 11
+                    "Wei-xu293": 14
                 },
                 "backlog": 0,
                 "ready": 1,
