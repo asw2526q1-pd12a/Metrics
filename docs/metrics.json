@@ -102,8 +102,8 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 8,
-                    "non_assigned": 1
+                    "Wei-xu293": 9,
+                    "non_assigned": 0
                 },
                 "backlog_per_member": {
                     "AndreuCorden": 0,
@@ -121,7 +121,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -136,8 +136,8 @@
                     "Wei-xu293": 8
                 },
                 "backlog": 0,
-                "ready": 1,
-                "in_progress": 0,
+                "ready": 0,
+                "in_progress": 1,
                 "in_review": 0,
                 "done": 8,
                 "total_issues": 9,
@@ -322,8 +322,8 @@
                     "AndreuCorden": 7,
                     "elmmiret": 5,
                     "julenguevara": 3,
-                    "Wei-xu293": 15,
-                    "non_assigned": 6
+                    "Wei-xu293": 16,
+                    "non_assigned": 5
                 },
                 "backlog_per_member": {
                     "AndreuCorden": 0,
@@ -341,7 +341,7 @@
                     "AndreuCorden": 0,
                     "elmmiret": 0,
                     "julenguevara": 0,
-                    "Wei-xu293": 0
+                    "Wei-xu293": 1
                 },
                 "in_review_per_member": {
                     "AndreuCorden": 0,
@@ -356,8 +356,8 @@
                     "Wei-xu293": 15
                 },
                 "backlog": 0,
-                "ready": 1,
-                "in_progress": 0,
+                "ready": 0,
+                "in_progress": 1,
                 "in_review": 0,
                 "done": 35,
                 "total_issues": 60,
