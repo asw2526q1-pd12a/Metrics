@@ -11,9 +11,9 @@
         "AndreuCorden": 56,
         "elmmiret": 57,
         "julenguevara": 58,
-        "Wei-xu293": 125,
+        "Wei-xu293": 127,
         "anonymous": 3,
-        "total": 299
+        "total": 301
     },
     "modified_lines": {
         "AndreuCorden": {
@@ -32,23 +32,23 @@
             "modified": 22027
         },
         "Wei-xu293": {
-            "additions": 16081,
-            "deletions": 4235,
-            "modified": 20316
+            "additions": 16084,
+            "deletions": 4237,
+            "modified": 20321
         },
         "total": {
-            "additions": 153037,
-            "deletions": 19049,
-            "modified": 172086
+            "additions": 153040,
+            "deletions": 19051,
+            "modified": 172091
         }
     },
     "commit_streak": {
         "AndreuCorden": 2,
         "elmmiret": 2,
         "julenguevara": 1,
-        "Wei-xu293": 6
+        "Wei-xu293": 7
     },
-    "commit_merges": 102,
+    "commit_merges": 104,
     "longest_commit_streak_per_user": {
         "AndreuCorden": 5,
         "elmmiret": 4,
@@ -66,12 +66,12 @@
         "closed": {
             "AndreuCorden": 19,
             "elmmiret": 14,
-            "julenguevara": 6,
+            "julenguevara": 7,
             "Wei-xu293": 28
         },
         "have_pull_request": 20,
         "assignee_is_pr_author": 20,
-        "total_closed": 88,
+        "total_closed": 89,
         "total": 95
     },
     "project": {
@@ -379,17 +379,17 @@
             "AndreuCorden": 26,
             "elmmiret": 23,
             "julenguevara": 14,
-            "Wei-xu293": 57
+            "Wei-xu293": 61
         },
         "merged_per_member": {
             "AndreuCorden": 21,
             "elmmiret": 21,
             "julenguevara": 9,
-            "Wei-xu293": 54
+            "Wei-xu293": 58
         },
-        "merged": 105,
+        "merged": 109,
         "not_merged_by_author": 26,
         "closed": 15,
-        "total": 120
+        "total": 124
     }
 }
